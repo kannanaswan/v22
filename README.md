@@ -13,7 +13,7 @@
 <p align="left">
 </p>                                                           
                                                     
-[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/MRK-YT/Pro-Auto-Filter-Bot)
+[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/kannanaswan/v22)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Asᴋ%20Mᴇ-Aɴʏᴛʜɪɴɢ-1abc9c.svg)](https://telegram.dog/Mrk_Yt)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Rᴇᴘᴏʀᴛ%20/Bᴜɢs/red)](https://telegram.dog/mrk_yt)
 [![Join Channel !](https://badgen.net/badge/🔊%20Jᴏɪɴ%20/Cʜᴀɴɴᴇʟ/Black)](https://telegram.dog/mo_Tech_yt)
@@ -24,20 +24,20 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/MRK-YT/Pro-Auto-Filter-Bot?style=social">
+  <a href="https://github.com/kannanaswan/v22/stargazers">
+    <img src="https://img.shields.io/github.com/kannanaswan/v22?style=social">
 
   </a>
   
-  <a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/Pro-Auto-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/kannanaswan/v22/fork">
+    <img src="https://img.shields.io/github.com/kannanaswan/v22?label=Fork&style=social">
 
   </a>  
 </p>
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Pro-Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kannanaswan/v22)
 
 
 ## Configs
